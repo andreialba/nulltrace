@@ -1,13 +1,13 @@
 # NULLTRACE - Astro Security Consultant Theme
 
-[![NULLTRACE theme preview](./public/preview.webp)](https://nulltrace.example/)
+[![NULLTRACE theme preview](./public/preview.webp)](https://nulltrace-two.vercel.app/)
 
 [![Astro 6](https://img.shields.io/badge/Astro-6-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 [![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Configured-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-84cc16?style=for-the-badge)](./LICENSE)
 
-**Preview:** [nulltrace.example](https://nulltrace.example/)
+**Preview:** [nulltrace-two.vercel.app](https://nulltrace-two.vercel.app/)
 
 NULLTRACE is a dark, terminal-inspired Astro theme for security consultants, penetration testers, incident response specialists, and boutique cybersecurity studios.
 
@@ -26,7 +26,6 @@ It is built as a single-page landing portfolio with strong technical atmosphere,
 - Accessible skip link, focus states, landmarks, labels, and reduced-motion fallbacks
 - Server-rendered Astro output for better SEO and no-JS readability
 - Open Graph, Twitter, canonical, robots, theme color, and JSON-LD structured data defaults
-- SVG favicon included
 - Tailwind CSS 4 styling through the Vite plugin
 - React islands for interactive navigation and motion
 
@@ -86,7 +85,7 @@ Before publishing, update the project-specific values:
 The current placeholder production URL is:
 
 ```txt
-https://nulltrace.example
+https://nulltrace-two.vercel.app
 ```
 
 Replace it with your real deployment domain before publishing.
@@ -155,7 +154,7 @@ See [CHANGELOG.md](CHANGELOG.md) for release notes.
 
 ## Publishing Checklist
 
-- Replace `https://nulltrace.example` with your real domain
+- Replace `https://nulltrace-two.vercel.app` with your real domain if you fork the theme
 - Replace `hello@nulltrace.security`
 - Replace GitHub and LinkedIn placeholder URLs
 - Connect or remove the contact form

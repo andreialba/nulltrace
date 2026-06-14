@@ -58,5 +58,5 @@ Initial public theme release.
 
 ### Notes
 
-- Demo values such as `https://nulltrace.example`, `hello@nulltrace.security`, and placeholder social URLs must be replaced before production use.
+- Demo values such as `https://nulltrace-two.vercel.app`, `hello@nulltrace.security`, and placeholder social URLs must be replaced before production use.
 - Contact form handling is intentionally left as a shell so theme users can wire it to their preferred provider.

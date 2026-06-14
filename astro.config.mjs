@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
-  site: 'https://nulltrace.example',
+  site: 'https://nulltrace-two.vercel.app',
   integrations: [react()],
   vite: {
     plugins: [tailwindcss()],
