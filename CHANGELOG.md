@@ -2,6 +2,10 @@
 
 All notable changes to NULLTRACE will be documented in this file.
 
+## [Unreleased]
+
+- Reduced Google Fonts requests to only the weights used by the theme.
+
 ## [0.1.0] - 2026-06-15
 
 Initial Astro theme release.
